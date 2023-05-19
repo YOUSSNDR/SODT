@@ -1,0 +1,1 @@
+Here you will find pieces of our work, what troubles we'v had and how did get pass them.
