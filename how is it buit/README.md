@@ -1,1 +1,0 @@
-Here you will find all the work made on the SODT from 3D modeling to programing witheout forgetting the maths needed for the robot.

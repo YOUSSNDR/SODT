@@ -1,1 +1,0 @@
-Robot do not understand our language(yet), we will have to talk to him on his language. Here you will find all the program needed for the SODT.
