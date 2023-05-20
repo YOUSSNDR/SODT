@@ -1,7 +1,7 @@
 ### SODT
 
 <p align="center">
-![screenSODT](https://github.com/YOUSSNDR/SODT/assets/114215795/aad4a4cb-3860-41a7-ac42-2c4c021a16a0)
+![screenSODT](![screenSODT](https://github.com/YOUSSNDR/SODT/assets/114215795/0574ca59-ec12-4572-ac80-70e170b0d621)
 </p>
 
 New year, new project.
